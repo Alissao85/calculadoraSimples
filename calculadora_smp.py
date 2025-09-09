@@ -21,7 +21,7 @@ while escolha != 6:
         case 4:
             print("Código para Realizar [divisão]")
         case 5:
-            print("Código para Realizar [é par ou ímpar]")
+            print("Código para Realizar [Elevar ao Quadrado]")
         case 6:
             print("Encerrando o programa. Até mais!")
         case _:
